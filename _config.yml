@@ -27,7 +27,7 @@ twitter_username: worksafebc
 github_username:  wsbctechblog
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
