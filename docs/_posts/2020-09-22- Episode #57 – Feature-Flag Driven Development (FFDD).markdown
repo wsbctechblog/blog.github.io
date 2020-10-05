@@ -2,9 +2,9 @@
 layout: post
 title:  "Episode #57 – Feature-Flag Driven Development (FFDD)!"
 date:   2020-09-22 14:48:59 -0700
-categories: Test Driven Development
+categories: TDD
+author: Alex Bunardzic
 ---
-Author: Alex Bunardzic 
 
 
 Experts say that repo branching workflow is poor man’s modularization (by experts I mostly refer to Martin Fowler and his team of deep thinkers). What do we mean by branching being poor man’s modularization?

@@ -3,9 +3,8 @@ layout: post
 title:  "Episode #58 – The cost of avoiding change"
 date:   2020-09-22 14:48:59 -0700
 categories: Development
+author: Alex Bunardzic
 ---
-
-Author: Alex Bunardzic
 
 Software engineers are notorious for being averse to change. We prefer the steady state, stability. The reason we prefer steady state lies in the fact that systems we are building tend to be complex. Complexity breeds brittleness, and so we are keen on doing everything possible to avoid building brittle systems. Who could blame us?
 

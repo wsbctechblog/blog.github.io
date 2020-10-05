@@ -2,10 +2,11 @@
 layout: post
 title:  "Episode #55 – Hypothesis-Driven Development"
 date:   2020-09-22 14:48:59 -0700
-categories: Development
+categories: TDD
+author: Alex Bunardzic
 ---
 
-Author: Alex Bunardzic
+
 
 “The only way it’s all going to go according to plan is if you don’t learn anything.” -Kent Beck
 
