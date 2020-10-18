@@ -1,0 +1,25 @@
+
+<div wsbc-header>
+  <ng-container wsbc-navbar-content>
+    <wsbc-top-navbar
+      [exitUrl]="exitUrl"
+      [menuItems]="menuItems"
+    ></wsbc-top-navbar>
+  </ng-container>
+  <ng-container page-title>
+    <div class="container-fluid">
+      <div class="row">
+          <div class="col-md-8">
+            <h1 class="py-4">WorkSafe Tech Blog</h1>
+          </div>
+      </div>
+  </div>
+  </ng-container>
+  <ng-container main-content>
+
+
+    <router-outlet></router-outlet>
+
+  </ng-container>
+  <footer wsbc-footer></footer>
+</div>
