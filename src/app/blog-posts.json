@@ -1,0 +1,19 @@
+{
+  "blogPosts": [{
+      "title": "Episode #57 – Feature-Flag Driven Development (FFDD)",
+      "author": "Alex Bunardzic",
+      "publish_at": "2020-09-22 14:48:59 -0700",
+      "perm_link": "title-1-2",
+      "tags": ["Test Driven Development"],
+      "remote_path": "blog-posts/2020-09-22-1.markdown"
+    },
+    {
+      "title": "Episode #58 – The cost of avoiding change",
+      "author": "Alex Bunardzic",
+      "publish_at": "2000-10-02",
+      "perm_link": "",
+      "remote_path": "blog-posts/2020-09-22-2.markdown",
+      "tags": ["dev ops", "Test Driven Development"]
+    }
+  ]
+}

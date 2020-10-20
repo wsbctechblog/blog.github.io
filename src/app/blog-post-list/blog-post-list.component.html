@@ -1,0 +1,12 @@
+
+
+
+<section *ngFor="let blogPost of blogPosts">
+  <div class="container pb-4">
+    <div class="row">
+      <div>
+        <app-markdown-by-path [title]="blogPost.title" [remote_path]="blogPost.remote_path" [permLink]="blogPost.perm_link" [isExcerpt]="true"></app-markdown-by-path>
+      </div>
+      </div>
+  </div>
+</section>
